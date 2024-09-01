@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component version="1.2" xmlns="http://schemas.circuit-diagram.org/circuitDiagramDocument/2012/component/xml">
   <declaration>
-    <meta name="name" value="Relay" />
+    <meta name="name" value="G2R-1" />
     <meta name="version" value="2.0.1" />
     <meta name="minsize" value="100" />
     <meta name="canflip" value="false" />
